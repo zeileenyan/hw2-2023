@@ -2,7 +2,9 @@ body{
 	font-family: Arial, Verdana; /* do I need sans-serif here? */
 	background-color: #000000;
     color: #FFFFFF;
-    margin: 20px 20px 0px; 
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
 }
 
 
@@ -19,7 +21,8 @@ h2{
 
 p{
     font-size: 24px;
-    padding: 10px 0px 0px 10px;
+    padding-top: 10px;
+    padding-left: 10px;
 }
 
 
@@ -31,7 +34,6 @@ img{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
 }
 
 div{
@@ -109,7 +111,6 @@ footer p{
     padding-top: 15px;
     padding-bottom: 15px;
     padding-right: 15px;
-    padding-left: none;
     text-align: right;
 
 }
