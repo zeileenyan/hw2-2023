@@ -1,5 +1,5 @@
 body{
-	font-family: Arial, Verdana, sans-serif; /* do I need sans-serif here? */
+	font-family: Arial, Verdana; /* do I need sans-serif here? */
 	background-color: #000000;
     color: #FFFFFF;
     margin-top: 20px;
@@ -16,7 +16,7 @@ h1{
 }
 
 h2{
-    font-size: 24px;
+    font-size: 30px;
     color: #0D0D0D;
 }
 
@@ -72,9 +72,9 @@ div{
     border-left: none;
 }
 
-.blue p, h2{
+/* .blue p, h2{
     color: #C4C4C4;
-}
+} */
 
 .yellow{
     background-color: #FFFF00;
@@ -91,7 +91,7 @@ div{
 }
 
 .green{
-    background-color: #00EB00;
+    background-color: #008500;
     text-align: left;
     margin-right: 50px;
     border-right: 5px solid #FFFFFF;
