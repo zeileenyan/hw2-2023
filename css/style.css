@@ -71,9 +71,9 @@ div{
     border-left: none;
 }
 
-/* .blue p, h2{
+.blue > p, .blue > h2{
     color: #C4C4C4;
-} */
+}
 
 .yellow{
     background-color: #FFFF00;
@@ -108,9 +108,9 @@ footer{
 
 footer p{
     font-size: 20px;
+    text-align: right;
     padding-top: 15px;
     padding-bottom: 15px;
     padding-right: 15px;
-    text-align: right;
 
 }
